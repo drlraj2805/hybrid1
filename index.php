@@ -7,7 +7,7 @@
 <?php
 echo"hello greeks !Divyaraj here";
 ?>
-<img src="https://taskbucs.s3.ap-south-1.amazonaws.com/bucket_image.jpg">
+<img src="https://tse1.mm.bing.net/th?id=OIP.62_t_byqqm-DJmbadGRIgAHaEo&pid=Api&P=0&w=278&h=175">
 
 </body>
 </html>
